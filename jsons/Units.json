@@ -1,0 +1,35 @@
+[
+    { 
+		"name": "Zhao Horseman",
+		"unitType": "Archery",
+		"replaces": "Horseman",
+		"movement": 4,
+		"strength": 25,
+		"rangedStrength": 9,
+		"cost": 100,
+		"requiredTech": "Archery",
+		"obsoleteTech": "Chivalry",
+		"hurryCostModifier": 25,
+		"requiredResource": "Horses",
+		"upgradesTo": "Knight",
+		"uniqueTo": "State Zhao",
+		"uniques": ["Can move after attacking"],
+		"attackSound": "arrow"
+   },
+   {
+		"name": "Wei Warrior",
+		"unitType": "Sword",
+		"replaces": "Spearman",
+		"movement": 3,
+		"strength": 15,
+		"cost": 75,
+		"requiredTech": "Iron Working",
+		"obsoleteTech": "Steel",
+		"requiredResource": "Iron",
+		"hurryCostModifier": 20,
+		"upgradesTo": "Longswordsman",
+		"uniqueTo": "State Wei",
+		"uniques": ["Can move after attacking"],
+		"attackSound": "metalhit"	
+   }
+]

@@ -1,0 +1,76 @@
+
+game.png
+size: 2048, 512
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+NationIcons/State Chu
+  rotate: false
+  xy: 1433, 200
+  size: 177, 279
+  orig: 177, 279
+  offset: 0, 0
+  index: -1
+NationIcons/State Han
+  rotate: false
+  xy: 1618, 208
+  size: 173, 271
+  orig: 173, 271
+  offset: 0, 0
+  index: -1
+NationIcons/State Qi
+  rotate: false
+  xy: 4, 190
+  size: 213, 289
+  orig: 213, 289
+  offset: 0, 0
+  index: -1
+NationIcons/State Qin
+  rotate: false
+  xy: 1055, 162
+  size: 182, 317
+  orig: 182, 317
+  offset: 0, 0
+  index: -1
+NationIcons/State Wei
+  rotate: false
+  xy: 658, 190
+  size: 192, 289
+  orig: 192, 289
+  offset: 0, 0
+  index: -1
+NationIcons/State Yan
+  rotate: false
+  xy: 858, 223
+  size: 189, 256
+  orig: 189, 256
+  offset: 0, 0
+  index: -1
+NationIcons/State Yue
+  rotate: false
+  xy: 443, 198
+  size: 207, 281
+  orig: 207, 281
+  offset: 0, 0
+  index: -1
+NationIcons/State Zhao
+  rotate: false
+  xy: 225, 198
+  size: 210, 281
+  orig: 210, 281
+  offset: 0, 0
+  index: -1
+UnitIcons/Wei Warrior
+  rotate: false
+  xy: 4, 4
+  size: 180, 178
+  orig: 180, 178
+  offset: 0, 0
+  index: -1
+UnitIcons/Zhao Horseman
+  rotate: false
+  xy: 1245, 299
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1

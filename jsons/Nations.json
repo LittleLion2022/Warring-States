@@ -6,6 +6,8 @@
 		"outerColor": [255, 169, 0],
 		"innerColor": [0,0,0],
 		"spyNames": ["Qu Yuan"],
+		"uniqueName": "",
+		"uniques": ["Starts with [Oligarchy] adopted"],
 		"cities": ["Shouchun","Huaiyang","Jiangling","Pengcheng","Xiangcheng","Chengfu","Guangling"]
      },
      {
@@ -46,7 +48,7 @@
 		"hateHello": "",
 		"tradeRequest": "",
 
-		"cities":["Yueyang","Xianyang","Yongcheng","Longxi","Hangu","Shangluo"]
+		"cities":["Yueyang","Yongcheng","Xianyang","Longxi","Hangu","Shangluo"]
 	},
 	{
 		"name": "State Zhao",
@@ -74,7 +76,7 @@
 		"innerColor": [123,255,0],
 		"spyNames": ["Gongzhong Chi"],
 		"uniqueName": "",
-		// "uniques": ["Starts with [Oligarchy] adopted","Starts with [Arch]"],
+		"uniques": ["Starts with [Oligarchy] adopted"],
 		"cities":["Xinzheng","Yangzhai","Pingyang","Zhangzi"]
 	},
 	{
@@ -101,8 +103,8 @@
 		"innerColor": [159,153,44],
 		"startBias": ["Grassland"],
 		"introduction": "",
-		"declaringWar": "礼乐征伐自天子出,天子之兵前来讨逆！",
-		"attacked": "蛮夷！",
+		"declaringWar": "The king's orders mean everything, the king's army is here to suppress you!",
+		"attacked": "Barbarians!",
 		"afterPeace": "周虽旧邦，其命维新。",
 		"defeated": "周德已衰，顿首受罪。",
 		"neutralHello": "普天之下，莫非王土。率土之滨，莫非王臣。",

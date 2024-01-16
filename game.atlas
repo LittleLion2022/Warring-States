@@ -60,6 +60,13 @@ NationIcons/State Zhao
   orig: 210, 281
   offset: 0, 0
   index: -1
+UnitIcons/Chu Yuti
+  rotate: false
+  xy: 1245, 163
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
 UnitIcons/Wei Warrior
   rotate: false
   xy: 4, 4

@@ -47,8 +47,7 @@
 		"neutralHello": "",
 		"hateHello": "",
 		"tradeRequest": "",
-
-		"cities":["Yueyang","Yongcheng","Xianyang","Longxi","Hangu","Shangluo"]
+		"cities":["Yueyang","Yongcheng","Xianyang","Hangu","Longxi","Shangluo"]
 	},
 	{
 		"name": "State Zhao",
@@ -66,7 +65,7 @@
 		"outerColor": [255,255,255],
 		"innerColor": [236,28,36],
 		"spyNames": ["Hui shi"],
-		"cities":["Daliang","Anyi","Yecheng","Jiyang"]
+		"cities":["Anyi","Daliang","Yecheng","Jiyang"]
 	},
 	{
 		"name": "State Han",

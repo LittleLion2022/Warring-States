@@ -19,7 +19,7 @@
    {
 		"name": "Wei Warrior",
 		"unitType": "Sword",
-		"replaces": "Spearman",
+		"replaces": "Swordsman",
 		"movement": 3,
 		"strength": 15,
 		"cost": 75,

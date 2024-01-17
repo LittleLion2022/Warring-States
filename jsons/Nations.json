@@ -3,24 +3,26 @@
         "name": "State Chu",
 		"leaderName": "Xiong Huai",
 		"adjective": ["Chu"],
+		"startBias": ["Open terrain"],
+		"preferredVictoryType": "",
 		"outerColor": [255, 169, 0],
 		"innerColor": [0,0,0],
 		"spyNames": ["Qu Yuan"],
 		"uniqueName": "",
-		"uniques": ["Starts with [Oligarchy] adopted"],
-		"cities": ["Shouchun","Huaiyang","Jiangling","Pengcheng","Xiangcheng","Chengfu","Guangling"]
+		"uniques": ["Starts with [Oligarchy] adopted","When defeating a [Wounded] unit, earn [3] Gold and recruit it"],
+		"cities": ["Shouchun","Huaiyang","Pengcheng","Jiangling","Xiangcheng","Chengfu","Guangling"]
      },
      {
         "name": "State Qi",
 		"leaderName": "Tian Yinqi",
 		"adjective": ["Qi"],
 		"startBias": ["Coast"],
-		"preferredVictoryType": "Diplomatic",
+		"preferredVictoryType": "",
 		"outerColor": [192,42,107],
 		"innerColor": [0,22,22],
 		"spyNames": ["Tian Ji"],
 		"uniqueName": "",
-		"uniques": ["Starts with [Oligarchy] adopted"],
+		"uniques": ["Starts with [Oligarchy] adopted","Great General provides double combat bonus"],
 		"cities":["Linzi","Jimo","Jixia","Jucheng","Echeng","Chunyu","Lixia"]
 	},
     {
@@ -36,6 +38,8 @@
 		"name": "State Qin",
 		"leaderName": "Ying Si",
 		"adjective": ["Qin"],
+		"startBias": ["Hill"],
+		"preferredVictoryType": "Domination",
 		"outerColor": [0,0,0],
 		"innerColor": [255,255,255],
 		"spyNames": ["Zhang Yi"],
@@ -47,7 +51,7 @@
 		"neutralHello": "",
 		"hateHello": "",
 		"tradeRequest": "",
-		"cities":["Yueyang","Yongcheng","Xianyang","Hangu","Longxi","Shangluo"]
+		"cities":["Yueyang","Yongcheng","Xianyang","Longxi","Shangluo","Hangu"]
 	},
 	{
 		"name": "State Zhao",
@@ -56,7 +60,8 @@
 		"outerColor": [236,140,150],
 		"innerColor": [59,68,193],
 		"spyNames": ["Fei Yi"],
-		"cities":["Handan","Taiyuan","Daijun","Yangqu","Julu","Xingtai","Loufan","Yunzhong","Huoren","Guanjin"]
+		"uniqueName": "Wearing Hu dress and Shooting on horse",
+		"cities":["Handan","Lingqiu","Daijun","Yangqu","Julu","Xingtai","Taiyuan","Loufan","Yunzhong","Huoren","Guanjin"]
 	},
 	{
 		"name": "State Wei",
@@ -65,12 +70,13 @@
 		"outerColor": [255,255,255],
 		"innerColor": [236,28,36],
 		"spyNames": ["Hui shi"],
-		"cities":["Anyi","Daliang","Yecheng","Jiyang"]
+		"cities":["Anyi","Daliang","Yecheng","Jiyang","Anling"]
 	},
 	{
 		"name": "State Han",
 		"leaderName": "Han Kang",
 		"adjective": ["Han"],
+		"preferredVictoryType": "Cultural",
 		"outerColor": [0,81,23],
 		"innerColor": [123,255,0],
 		"spyNames": ["Gongzhong Chi"],
@@ -81,7 +87,9 @@
 	{
 		"name": "State Yue",
 		"leaderName": "Zhu Gou",
-		"adjective": ["Qin"],
+		"adjective": ["Yue"],
+		"startBias": ["Hill"],
+		"preferredVictoryType": "Scientific",
 		"outerColor": [0,0,0],
 		"innerColor": [88,198,119],
 		"spyNames": ["Shi Mai"],
@@ -93,6 +101,8 @@
 		"neutralHello": "",
 		"hateHello": "",
 		"tradeRequest": "",
+		"uniqueName": "The Land of Baiyue",
+		"uniques": ["When conquering an encampment, earn [1] Gold and recruit a Barbarian unit"],
 		"cities":["Kuaiji","Gusu","Juzhang","Fuchun","Yunyang","Gumie"]
 	},
 	{
@@ -113,8 +123,8 @@
 	{
 		"name": "Song",
 		"cityStateType": "Mercantile",
-		"outerColor": [135,135,135],
-		"innerColor": [238,255,0],
+		"outerColor": [192,78,13],
+		"innerColor": [241,241,241],
 		"startBias": ["Grassland"],
 		"introduction": "",
 		"declaringWar": "",
@@ -173,7 +183,7 @@
 	{
 		"name": "Ba",
 		"cityStateType": "Militaristic",
-		"outerColor": [94,149,109],
+		"outerColor": [0,99,25],
 		"innerColor": [255,255,255],
 		"startBias": ["Coast"],
 		"introduction": "",

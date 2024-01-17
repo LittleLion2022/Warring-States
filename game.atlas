@@ -6,63 +6,63 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 NationIcons/State Chu
   rotate: false
-  xy: 1433, 200
+  xy: 1621, 202
   size: 177, 279
   orig: 177, 279
   offset: 0, 0
   index: -1
 NationIcons/State Han
   rotate: false
-  xy: 1618, 208
+  xy: 1806, 210
   size: 173, 271
   orig: 173, 271
   offset: 0, 0
   index: -1
 NationIcons/State Qi
   rotate: false
-  xy: 4, 190
+  xy: 4, 192
   size: 213, 289
   orig: 213, 289
   offset: 0, 0
   index: -1
 NationIcons/State Qin
   rotate: false
-  xy: 1055, 162
+  xy: 1055, 164
   size: 182, 317
   orig: 182, 317
   offset: 0, 0
   index: -1
 NationIcons/State Wei
   rotate: false
-  xy: 658, 190
+  xy: 658, 192
   size: 192, 289
   orig: 192, 289
   offset: 0, 0
   index: -1
 NationIcons/State Yan
   rotate: false
-  xy: 858, 223
+  xy: 858, 225
   size: 189, 256
   orig: 189, 256
   offset: 0, 0
   index: -1
 NationIcons/State Yue
   rotate: false
-  xy: 443, 198
+  xy: 443, 200
   size: 207, 281
   orig: 207, 281
   offset: 0, 0
   index: -1
 NationIcons/State Zhao
   rotate: false
-  xy: 225, 198
+  xy: 225, 200
   size: 210, 281
   orig: 210, 281
   offset: 0, 0
   index: -1
 UnitIcons/Chu Yuti
   rotate: false
-  xy: 1245, 163
+  xy: 1245, 167
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
@@ -70,13 +70,20 @@ UnitIcons/Chu Yuti
 UnitIcons/Wei Warrior
   rotate: false
   xy: 4, 4
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+UnitIcons/Wei Warrior1
+  rotate: false
+  xy: 1245, 303
   size: 180, 178
   orig: 180, 178
   offset: 0, 0
   index: -1
 UnitIcons/Zhao Horseman
   rotate: false
-  xy: 1245, 299
+  xy: 1433, 301
   size: 180, 180
   orig: 180, 180
   offset: 0, 0

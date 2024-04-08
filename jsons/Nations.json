@@ -9,7 +9,7 @@
 		"innerColor": [0,0,0],
 		"spyNames": ["Qu Yuan"],
 		"uniqueName": "",
-		"uniques": ["Starts with [Oligarchy] adopted","When defeating a [Wounded] unit, earn [3] Gold and recruit it"],
+		"uniques": [],
 		"cities": ["Shouchun","Huaiyang","Pengcheng","Jiangling","Xiangcheng","Chengfu","Guangling"]
      },
      {
@@ -51,7 +51,7 @@
 		"neutralHello": "",
 		"hateHello": "",
 		"tradeRequest": "",
-		"cities":["Yueyang","Yongcheng","Xianyang","Longxi","Shangluo","Hangu"]
+		"cities":["Yueyang","Yongcheng","Xianyang","Longxi","Shangluo","Hangu","Nanzheng"]
 	},
 	{
 		"name": "State Zhao",
@@ -70,7 +70,7 @@
 		"outerColor": [255,255,255],
 		"innerColor": [236,28,36],
 		"spyNames": ["Hui shi"],
-		"cities":["Anyi","Daliang","Yecheng","Jiyang","Anling"]
+		"cities":["Anyi","Daliang","Yecheng","Jiyang","Anling","Yuguan"]
 	},
 	{
 		"name": "State Han",
@@ -82,11 +82,11 @@
 		"spyNames": ["Gongzhong Chi"],
 		"uniqueName": "",
 		"uniques": ["Starts with [Oligarchy] adopted"],
-		"cities":["Xinzheng","Yangzhai","Pingyang","Zhangzi"]
+		"cities":["Xinzheng","Yangzhai","Pingyang","Zhangzi","Yuyu","Yewang"]
 	},
 	{
 		"name": "State Yue",
-		"leaderName": "Zhu Gou",
+		"leaderName": "Wu Jiang",
 		"adjective": ["Yue"],
 		"startBias": ["Hill"],
 		"preferredVictoryType": "Scientific",
@@ -103,7 +103,7 @@
 		"tradeRequest": "",
 		"uniqueName": "The Land of Baiyue",
 		"uniques": ["When conquering an encampment, earn [1] Gold and recruit a Barbarian unit"],
-		"cities":["Kuaiji","Gusu","Juzhang","Fuchun","Yunyang","Gumie"]
+		"cities":["Kuaiji","Gusu","Juzhang","Fuchun","Zhufang","Yunyang","Juwu","Gumie"]
 	},
 	{
 		"name": "Zhou",
